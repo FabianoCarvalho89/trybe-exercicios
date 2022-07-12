@@ -1,7 +1,7 @@
 # trybe-exercicios
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por Fabiano Carvalho https://www.linkedin.com/in/fabiano-carvalho-56a921196 enquanto estuda na [Trybe](https://www.betrybe.com/):
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por <b>Fabiano Carvalho</b> https://www.linkedin.com/in/fabiano-carvalho-56a921196 enquanto estuda na [Trybe](https://www.betrybe.com/):
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
