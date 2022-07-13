@@ -1,0 +1,3 @@
+Não é a linguagem de programação que define um progamador, mas sim sua lógica
+Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema
+Se até uma variável precisar ser declarada, por que não deve me declarar para vc?
