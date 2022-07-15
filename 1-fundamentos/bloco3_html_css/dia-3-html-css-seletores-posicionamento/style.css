@@ -1,5 +1,7 @@
 .super-mario {
   width: 200px;
+  position: absolute;
+  z-index: 1;
 }
 
 .goomba {
@@ -15,5 +17,8 @@
 }
 
 .bowser {
-  width: 200px;
+  width: 400px;
+  position:absolute;
+  z-index: 1;
+  margin: 100px 0 0 600px;
 }
