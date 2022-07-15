@@ -4,4 +4,7 @@ h1, p {
 li:hover{
     background-color: rgba(1, 50, 80, 0.233);
 }
-
+ li:active{
+    font-family: monospace;
+    font-size: 15px;
+ }
