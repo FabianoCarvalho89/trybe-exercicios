@@ -1,10 +1,11 @@
 div:hover{
-    border: dotted 1px gray;
+    border: solid 1.5px yellow;
     
 }
 
 div{
-   border: solid 1px white;
+   border: solid 0.5px white;
+   height: fit-content;
 }
 
 #red{
