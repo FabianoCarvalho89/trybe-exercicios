@@ -13,19 +13,26 @@ div{
 }
 
 #orange{
-    background: rgb(255, 81, 0)
+    background: rgb(255, 81, 0);
 }
 
 #purple{
-    background: rgb(101, 0, 216)
+    background: rgb(101, 0, 216);
+    height: 100px;
+    
+}
+
+#centralizar{
+    margin-top: 35px;
+    color: rgb(219, 45, 74);
 }
 
 #dark-brown{
-    background: rgb(33, 24, 21)
+    background: rgb(33, 24, 21);
 }
 
 #beige{
-    background: rgb(241, 138, 104)
+    background: rgb(241, 138, 104);
 }
 
 h3 {
