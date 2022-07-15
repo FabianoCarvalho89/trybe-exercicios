@@ -40,3 +40,7 @@ h3 {
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: rgba(238, 241, 11, 0.4);
 }
+
+.italico{
+    font-style: italic;
+}
