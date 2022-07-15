@@ -1,4 +1,28 @@
 div:hover{
     border: dotted 1px gray;
+    
 }
 
+div{
+   border: solid 1px white;
+}
+
+#red{
+    background: rgb(255, 0, 0);
+}
+
+#orange{
+    background: rgb(255, 81, 0)
+}
+
+#purple{
+    background: rgb(101, 0, 216)
+}
+
+#dark-brown{
+    background: rgb(33, 24, 21)
+}
+
+#beige{
+    background: rgb(241, 138, 104)
+}
